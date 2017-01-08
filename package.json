@@ -1,0 +1,25 @@
+{
+  "name": "modclean-patterns-default",
+  "version": "1.0.0",
+  "description": "Default patterns for ModClean",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModClean/modclean-patterns-default.git"
+  },
+  "keywords": [
+    "modclean",
+    "module",
+    "cleanup",
+    "plugin",
+    "patterns",
+    "default",
+    "pattern"
+  ],
+  "author": "Kyle Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModClean/modclean-patterns-default/issues"
+  },
+  "homepage": "https://github.com/ModClean/modclean-patterns-default#readme"
+}
