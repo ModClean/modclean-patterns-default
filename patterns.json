@@ -1,4 +1,6 @@
 {
+    "$defaut": "safe",
+    
     "safe": {
         "patterns": [
             "readme*",
