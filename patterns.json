@@ -87,7 +87,8 @@
             ".ds_store",
             "desktop.ini",
             "npm-debug.log",
-            "wercker.yml"
+            "wercker.yml",
+            ".flowconfig"
         ],
         
         "ignore": []
