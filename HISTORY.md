@@ -1,5 +1,11 @@
 # modclean-patterns-default History
 
+## 1.1.0 (11/6/2017)
+* Fix patterns that delete certain modules (#1)
+* Added new patterns:
+    - `.eslintrc.*` - safe
+    - `yarn.lock` - danger
+
 ## 1.0.1 (1/13/2016)
 * Added `.flowconfig` pattern to `safe` rule.
 
