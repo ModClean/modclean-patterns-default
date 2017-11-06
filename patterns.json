@@ -49,6 +49,7 @@
             "draft-03",
             "draft-04",
             ".eslintrc",
+            ".eslintrc.*",
             ".jamignore",
             ".jscsrc",
             "*.todo",
@@ -147,7 +148,8 @@
             "semver",
             "link",
             "links",
-            "uglifyjs"
+            "uglifyjs",
+            "yarn.lock"
         ],
         
         "ignore": []
