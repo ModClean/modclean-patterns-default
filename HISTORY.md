@@ -1,5 +1,8 @@
 # modclean-patterns-default History
 
+## 1.1.1 (11/6/2017)
+* Add additional patterns to handle license files (@jorrit)
+
 ## 1.1.0 (11/6/2017)
 * Fix patterns that delete certain modules (#1)
 * Added new patterns:
