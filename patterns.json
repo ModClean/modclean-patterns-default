@@ -5,11 +5,13 @@
         "patterns": [
             "readme*",
             ".npmignore",
-            "*license*",
-            "*licence*",
+            "license",
+            "license.md",
+            "licence.md",
+            "license.markdown",
+            "licence.markdown",
             "history.md",
             "history.markdown",
-            "history",
             ".gitattributes",
             ".gitmodules",
             ".travis.yml",
@@ -91,7 +93,10 @@
             ".flowconfig"
         ],
         
-        "ignore": []
+        "ignore": [
+            "validate-npm-package-license",
+            "spdx-license-ids"
+        ]
     },
     
     "caution": {
