@@ -1,6 +1,6 @@
 {
   "name": "modclean-patterns-default",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Default patterns for ModClean",
   "main": "index.js",
   "repository": {
