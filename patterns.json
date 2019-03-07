@@ -1,6 +1,6 @@
 {
     "$default": "safe",
-    
+
     "safe": {
         "patterns": [
             "readme*",
@@ -92,15 +92,16 @@
             "desktop.ini",
             "npm-debug.log",
             "wercker.yml",
-            ".flowconfig"
+            ".flowconfig",
+            "*.ts"
         ],
-        
+
         "ignore": [
             "validate-npm-package-license",
             "spdx-license-ids"
         ]
     },
-    
+
     "caution": {
         "patterns": [
             "*.png",
@@ -126,14 +127,13 @@
             "*.cc",
             "*.cpp"
         ],
-        
+
         "ignore": []
     },
-    
+
     "danger": {
         "patterns": [
             "*.coffee",
-            "*.ts",
             ".bin",
             "*.min.js",
             "test.js",
@@ -152,7 +152,7 @@
             "uglifyjs",
             "yarn.lock"
         ],
-        
+
         "ignore": []
     }
 }
